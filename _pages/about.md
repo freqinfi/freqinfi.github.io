@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm a passionate developer interested in data science including AI and computer vision.
+ I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm a passionate developer interested in data science including AI and computer vision.
+
+저는 서울대학교 4학년 주기영입니다. 저는 기계공학과 컴퓨터공학을 복수전공하고 있습니다. 저는 AI를 포함한 데이터 사이언스와 컴퓨터 비전 기술에 관심이 있습니다.
  
 
 Degree and GPA
@@ -14,7 +16,7 @@ Degree and GPA
 * B.S. in Mechanical Engineering and Computer Science Engineering, Seoul National University University, 2025 Feb (Expected)
 
 * GPA (Current)
-  * Total : 4.04 / 4.3 (117 credits)
+  * Total : 4.05 / 4.3 (117 credits)
   * Mechanical Engineering : 4.11 / 4.3 ( credits)
   * Computer Science Engineering : 4.02 / 4.3 (28 credits)
   * [Grade](/images/grade.jpg)
@@ -26,11 +28,11 @@ Work experience
   * Installing a stereo vision environment for autonomous driving in an off-road environment
   * Stereo depth estimation algorithm implementation without deep learning
 
-* Jan 2024 - Feb 2024: Full Stack & AI research [LG CNS](https://www.lgcns.com/)
+* Jan 2024 - Feb 2024: Full Stack & AI research ([LG CNS](https://www.lgcns.com/))
   * Intern
-  * GNC Team
   * 
-  *
+  * 
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
