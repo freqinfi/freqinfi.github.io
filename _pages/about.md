@@ -15,12 +15,21 @@ Degree and GPA
 
 * GPA (Current)
   * Total : 4.04 / 4.3 (117 credits)
-  * Mechanical Engineering : 4.11 / 4.3 (51 credits)
+  * Mechanical Engineering : 4.11 / 4.3 ( credits)
   * Computer Science Engineering : 4.02 / 4.3 (28 credits)
+  * [Grade](https://academicpages.github.io/images/grade.jpg)
 
 Work experience
+======
+* Mar 2023 - Present : Stereo vision Research ([RPM](https://rpm.snu.ac.kr/)) Lab, SNU
+  * Undergraduate Researcher / Advisor : Prof. Ayoung Kim
+  * Conducted research on extending theory of Wasserstein Distributionally Robust Control(WDRC) Problem using Distributionally Robust Kalman Filtering(DRKF) in partially observable linear stochastic systems
+  * Implemented DRKF into the system and evaluated its performanace improvement compared to the original WDRC and Linear Quadratic Gaussian (LQG) control methods
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Jan 2024 - Feb 2024: [NEARTHLAB](https://www.nearthlab.com/)
+  * Aerospace Engineering Intern
+  * GNC Team
+  * Developed and implemented a Position/Velocity Controller utilizing Disturbance Observer (DOB) for offboard flight control missions of quadrotor.
 
 Getting started
 ======
