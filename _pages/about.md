@@ -8,7 +8,7 @@ redirect_from:
 ---
  I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm a passionate developer interested in data science including AI and computer vision.
 
-<span style = "font-size:14px; color: gray;"> 저는 서울대학교 4학년 주기영입니다. 저는 기계공학과 컴퓨터공학을 복수전공하고 있습니다. 저는 AI를 포함한 데이터 사이언스와 컴퓨터 비전 기술에 관심이 있습니다. </span>
+<span style = "font-size:14px; color: gray;"> 저는 서울대학교 4학년에 재학중인 주기영입니다. 저는 기계공학과 컴퓨터공학을 복수전공하고 있습니다. 저는 AI를 포함한 데이터 사이언스와 컴퓨터 비전 기술에 관심이 있습니다. </span>
  
 
 Degree and GPA
@@ -17,13 +17,14 @@ Degree and GPA
 
 * GPA (Current)
   * Total : 4.05 / 4.3 (117 credits)
-  * Mechanical Engineering : 4.11 / 4.3 ( credits)
+  * Mechanical Engineering : 4.11 / 4.3 (51 credits)
   * Computer Science Engineering : 4.02 / 4.3 (28 credits)
   * [Grade](/images/grade.jpg)
 
+
 Work experience
 ======
-* June 2023 - November 2023 : Stereo vision Research ([RPM](https://rpm.snu.ac.kr/)) Lab, SNU
+* Jun 2023 - Nov 2023 : Stereo vision Research ([RPM](https://rpm.snu.ac.kr/)) Lab, SNU
   * Laboratary Intern / Advisor : Prof. Ayoung Kim
   * Installing a stereo vision environment for autonomous driving in an off-road environment
   * Stereo depth estimation algorithm implementation without deep learning
