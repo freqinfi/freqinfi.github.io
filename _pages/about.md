@@ -35,7 +35,7 @@ Work experience
   * Researching AI technology that can be applied to commerce platforms
 
 
-  Skills
+Skills
 ======
 * Programming : Java Spring, Python, C/C++, MySQL, MATLAB
 * Libraries/Softwares : PyTorch, SolidWorks, LaTeX
