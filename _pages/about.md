@@ -30,5 +30,5 @@ Work experience
 
 * Jan 2024 - Feb 2024: Full Stack & AI research ([LG CNS](https://www.lgcns.com/))
   * Intern
-  * 
-  * 
+  * Development and maintenance of code in commerce platform team
+  * Researching AI technology that can be applied to commerce platforms
