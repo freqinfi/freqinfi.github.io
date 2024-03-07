@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm a passionate developer interested in data science including AI and computer vision.
+I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm a passionate developer interested in data science including AI and computer vision.
  
 
 Degree and GPA
@@ -17,20 +17,20 @@ Degree and GPA
   * Total : 4.04 / 4.3 (117 credits)
   * Mechanical Engineering : 4.11 / 4.3 ( credits)
   * Computer Science Engineering : 4.02 / 4.3 (28 credits)
-  * [Grade](https://academicpages.github.io/images/grade.jpg)
+  * [Grade](/images/grade.jpg)
 
 Work experience
 ======
 * Mar 2023 - Present : Stereo vision Research ([RPM](https://rpm.snu.ac.kr/)) Lab, SNU
-  * Undergraduate Researcher / Advisor : Prof. Ayoung Kim
-  * Conducted research on extending theory of Wasserstein Distributionally Robust Control(WDRC) Problem using Distributionally Robust Kalman Filtering(DRKF) in partially observable linear stochastic systems
-  * Implemented DRKF into the system and evaluated its performanace improvement compared to the original WDRC and Linear Quadratic Gaussian (LQG) control methods
+  * Laboratary Intern / Advisor : Prof. Ayoung Kim
+  * Installing a stereo vision environment for autonomous driving in an off-road environment
+  * Stereo depth estimation algorithm implementation without deep learning
 
-* Jan 2024 - Feb 2024: [NEARTHLAB](https://www.nearthlab.com/)
-  * Aerospace Engineering Intern
+* Jan 2024 - Feb 2024: Full Stack & AI research [LG CNS](https://www.lgcns.com/)
+  * Intern
   * GNC Team
-  * Developed and implemented a Position/Velocity Controller utilizing Disturbance Observer (DOB) for offboard flight control missions of quadrotor.
-
+  * 
+  *
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
