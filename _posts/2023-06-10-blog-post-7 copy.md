@@ -1,6 +1,6 @@
 ---
 title: 'Machine Learning for Mechanical Engineering'
-date: 2023-12-10
+date: 2023-12-15
 permalink: /posts/2023/06/blog-post-7/
 tags:
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Computer Architecture'
-date: 2023-12-10
+date: 2023-12-18
 permalink: /posts/2023/06/blog-post-6/
 tags:
 ---
