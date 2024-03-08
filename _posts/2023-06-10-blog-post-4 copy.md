@@ -28,4 +28,4 @@ tags:
 ### Dynamics
   * [Dynamics A](/files/Reports/dynamics%20A.pdf)
   * [Dynamics B](/files/Reports/dynamics%20B.pdf)
-  * [Dynamics C](/files/Reports/dynamics%20C.pdf)
+  * [Dynamics C](/files/Reports/dynamics%20C.zip)
