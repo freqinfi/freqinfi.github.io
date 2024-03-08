@@ -5,7 +5,7 @@ permalink: /posts/2023/06/blog-post-6/
 tags:
 ---
 
-<span style = "font-size:14px; color: gray;"> Spring 2023, Computer Architecture. B+ </span>
+<span style = "font-size:14px; color: gray;"> Fall 2023, Computer Architecture. B+ </span>
  
 
 ### Homework Assignment
