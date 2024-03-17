@@ -16,6 +16,7 @@ collection: portfolio
     * <strong> Contents</strong>
         * Manufacturing Camera System
         * Camera System Assembly
+        * Basic of 3D computer vision
 
 <br>
 * <strong style = "color: blue; font-size:20px;">Stereo Depth Estimation</strong><br>
@@ -23,5 +24,7 @@ collection: portfolio
 
     * [Material](/files/StereoDepthEstimation/Stereo Depth Estimation.pdf)
     * <strong> Contents</strong>
-        * Manufacturing Camera System
-        * Camera System Assembly
+        * Epipolar Geometry, Triangulization
+        * Rectification
+        * Feature Matching in Depth Estimation
+        * Explanation of Semi Global Matching
