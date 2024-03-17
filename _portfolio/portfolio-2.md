@@ -37,8 +37,8 @@ collection: portfolio
 * <strong style = "color: blue; font-size:22px;">Presentation & Demonstration</strong><br>
     * [Material](/files/Mecha Final/final.pdf)
     * <strong> Contents</strong>
-        * Manufacturing Camera System
-        * Camera System Assembly
-        * Basic of 3D computer vision
+        * Explanation of Module
+        * Manufacturing Process
+        * Demonstration
 
 
