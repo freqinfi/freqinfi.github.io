@@ -34,9 +34,8 @@ collection: portfolio
 <img src='/images/mecha.png'/>
 
 
-* 응애
-
-    * [Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
+* <strong style = "color: blue; font-size:22px;">Presentation & Demonstration</strong><br>
+    * [Material](/files/Mecha Final/final.pdf)
     * <strong> Contents</strong>
         * Manufacturing Camera System
         * Camera System Assembly
