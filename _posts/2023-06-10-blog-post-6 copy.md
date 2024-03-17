@@ -10,7 +10,7 @@ tags:
 
 ### Homework Assignment
   * [HW1](/files/CA/HW1.zip) : Human compiler (RISC-V )
-  * [HW2](/files/CA/HW2.zip) : Integer, Float in bit (c)
+  * [HW2](/files/CA/HW2.zip) : Integer, Float in bit (C)
   * [HW3](/files/CA/HW3.zip) : CPU Pipeline implementation (Verilog)
-  * [HW4](/files/CA/HW4.zip) : Cache simulation (c)
-  * [HW5](/files/CA/HW5.zip) : Matrix multiplier optimization (c)
+  * [HW4](/files/CA/HW4.zip) : Cache simulation (C)
+  * [HW5](/files/CA/HW5.zip) : Matrix multiplier optimization (C)
