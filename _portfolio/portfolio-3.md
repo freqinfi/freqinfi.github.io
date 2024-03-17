@@ -9,10 +9,17 @@ collection: portfolio
 <span style = "font-size:18px;"> 학부 머신러닝 과목을 수강하면서 진행한 프로젝트에 대한 내용</span>
 <br><br>
 
-* <strong style = "color: blue; font-size:22px;">Setting Stereo Camera System</strong><br>
-<span style = "font-size:16px; color: gray;"><br> Stereo Camera System의 하드웨어를 실제로 구성하는 과정을 수행하고 제작 과정, 수행과정 개선점과 간단한 Stereo Vision에 대한 이론적 배경에 대해 중간 발표를 하였습니다.</span><br><br>
+* <strong style = "color: blue; font-size:22px;">Introduction</strong><br>
+<span style = "font-size:16px; color: gray;"><br> 상자에 충격을 가했을 때 물체가 있는지와 없는지, 또한 어디에 있는지에 따라서 다른 소리가 납니다. 이러한 사실을 바탕으로 음파를 이용하여 빈 공간이나 두꺼운 벽 내에 물체가 존재하는지 인공지능을 이용하여 분류하는 프로젝트를 진행하였습니다.</span><br><br>
 
-    * [Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
+* <strong style = "color: blue; font-size:22px;">Experimental Procedure</strong><br>
+<span style = "font-size:16px; color: gray;"><br> 실제 상자와 물체를 준비하여 DataSet을 직접 만들었습니다. 상자에 물체가 없는 경우, 충격을 주는 지점에서 물체가 먼 경우와 가까운 경우의 3가지 Class에서 학습 데이터를 얻어 이를 Ougmentation을 통해 학습 데이터를 확보하고, 이를 통해 인공지능 모델을 학습하였습니다.</span><br><br>
+<span style = "font-size:16px; color: gray;"><br> Feature의 경우에는 먼저 음파를 주파수 분석하였고, 두 가지 방법을 사용하였습니다. 0 ~ 1000Hz까지의 주파수의 Magnitude 분포에서 이산적인 Feature로 이용하는 방법과 Top 20개의 Feak 정보를 이용하는 방법을 사용하였습니다.</span><br><br>
+<span style = "font-size:16px; color: gray;"><br> 먼저 T-sne와  PCA 방법을 이용하여 추출한 데이터를 축소하고, 분류 가능성을 판단해보았습니다. 머신러닝 모델의 경우에는 kNN, SVM 다중 분류, RandomForest, Naive Bayes 모델을 이용하여 이를 비교하며 분석하였습니다. 또한 Greed search를 이용하여 최적의 Parameter를 찾는 과정 또한 진행하였습니다.</span><br><br>
+
+* <strong style = "color: blue; font-size:22px;"> Presentation</strong><br>
+    * [Material](/files/MFM/ML4ME_Final.pdf)
+    * [Youtube](https://www.youtube.com/watch?v=YgvcL3sQxws)
     * <strong> Contents</strong>
         * Manufacturing Camera System
         * Camera System Assembly
