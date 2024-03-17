@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning project"
-excerpt: "The presence of objects in box using sound waves<br/><img src='/images/MFM_project.png' width='500' height='300'>
+excerpt: "Checking the presence of objects in box using sound waves<br/><img src='/images/MFM_project.png' width='500' height='300'>
 "
 collection: portfolio
 ---
