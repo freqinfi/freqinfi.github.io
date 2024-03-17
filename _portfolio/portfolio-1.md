@@ -18,7 +18,7 @@ collection: portfolio
 
 <br><br>
 * <strong style = "color: blue">Stereo Depth Estimation</strong><br>
-<span style = "font-size:15px; color: gray;"><br> Stereo Depth Estimation을 Algorithmatic하게 해결하는 Semi Global Matching에 대한 내용. 실제로 Project에 SGM을 적용하기 위해서 Stereo matching의 기반 이론인 Epipolar Geometry와 Rectification에 대한 내용과 또한 Semi Global Matching을 이용하여 다양한 parameter를 변경하며 실제 Stereo Matching을 진행해본 결과를 Seminar로 발표하였습니다. </span><br><br>
+<span style = "font-size:15px; color: gray;"><br> Stereo Depth Estimation을 Algorithmatic하게 해결하는 Semi Global Matching에 대한 내용. 실제로 Project에 SGM을 적용하기 위해서 Stereo matching의 기반 이론인 Epipolar Geometry와 Rectification에 대한 내용과 또한 Semi Global Matching을 이용하여 다양한 parameter를 변경하며 실제 Stereo Matching을 진행해본 결과를 연구실 Seminar에서 발표하였습니다. </span><br><br>
 
     * [Material](/files/StereoDepthEstimation/Stereo Depth Estimation.pdf)
     * <strong> Contents</strong>
