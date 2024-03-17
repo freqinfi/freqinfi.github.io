@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Stereo Depth Estimation"
+excerpt: "Stereo Depth Estimation Research<br/><img src='/images/triangulizaiton.png' width='500' height='300'>
+"
 collection: portfolio
 ---
 
