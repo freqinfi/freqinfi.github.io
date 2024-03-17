@@ -20,7 +20,7 @@ collection: portfolio
     </span><br><br>
 
 
-<img src='/images/mecha.jpg' width='500'/>
+<img src='/images/mecha.png' width='500'/>
 
 
     * [Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
