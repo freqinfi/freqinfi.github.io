@@ -1,6 +1,6 @@
 ---
 title: "Stereo Depth Estimation"
-excerpt: "Stereo Depth Estimation Research<br/><img src='/images/triangulization.PNG'>"
+excerpt: "Stereo Depth Estimation Research<br/><img src='/images/triangulizaiton.png'>"
 collection: portfolio
 ---
 
