@@ -1,6 +1,6 @@
 ---
-title: "Stereo Depth Estimation"
-excerpt: "Stereo Depth Estimation Research<br/><img src='/images/triangulizaiton.png' width='500' height='300'>
+title: "Mechatronics Project"
+excerpt: "Mechatronics Project<br/><img src='/images/mecha_logo.png' width='500' height='300'>
 "
 collection: portfolio
 ---
