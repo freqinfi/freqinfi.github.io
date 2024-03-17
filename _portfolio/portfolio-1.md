@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 <br>
-<span style = "font-size:16px; color: gray;"> Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) 연구실에서 Off-road 환경에서의 자율주행에 대해서 연구한 내용</span>
+<span style = "font-size:18px;"> Robust Perception and Mobile Robotics Lab (RPM Robotics Lab) 연구실에서 Off-road 환경에서의 자율주행에 대해서 연구한 내용</span>
 <br><br>
 
 * <strong style = "color: blue; font-size:22px;">Setting Stereo Camera System</strong><br>
