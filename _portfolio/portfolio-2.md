@@ -8,10 +8,10 @@ collection: portfolio
 
 <br>
 <span style = "font-size:16px; color: gray;"> 현대 인프라코어의 지원으로 대회 형식으로 개최된 메카트로닉스 과목 Final Project에 대한 내용</span>
-<br><br>
-
+<br>
 <img src='/images/mecha_prize.jpg' width="300" height="500" style="display: block; margin: 0 auto;" alt="Mecha Prize">
 
+<br>
 * <strong style = "color: blue; font-size:22px;">Introduction</strong><br>
     <span style = "font-size:16px; color: gray;"><br> 
     얼굴인식과 같은 생체인식은 사람이 항상 사용할 수 있다. 이러한 특성을 이용하여 사람들은 쉽게 다른 사람과 자신을 구별할 수 있으며, 이를 통해서 그 사람에게만 개인화된 서비스를 제공할 수 있는 특성이 있습니다.
