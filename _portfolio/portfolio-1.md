@@ -5,4 +5,8 @@ excerpt: "Stereo Depth Estimation Research<br/><img src='/images/triangulizaiton
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<span style = "font-size:14px; color: gray;"> 제가 RPM 연구실에서 Off-road 환경에서의 자율주행에 대해서 연구한 내용입니다.
+<br><br>
+연구를 위하여 카메라 setting을 하
+</span>
+ 
