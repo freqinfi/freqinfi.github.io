@@ -10,7 +10,7 @@ collection: portfolio
 <span style = "font-size:16px; color: gray;"> 현대 인프라코어의 지원으로 대회 형식으로 개최된 메카트로닉스 과목 Final Project에 대한 내용</span>
 <br><br>
 
-<img src='/images/mecha_prize.jpg'/>
+<img src='/images/mecha_prize.jpg' width = 300 height = 500/>
 
 * <strong style = "color: blue; font-size:22px;">Introduction</strong><br>
     <span style = "font-size:16px; color: gray;"><br> 
@@ -24,6 +24,8 @@ collection: portfolio
 
 <img src='/images/mecha.png'/>
 
+
+* 응애
 
     * [Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
     * <strong> Contents</strong>
