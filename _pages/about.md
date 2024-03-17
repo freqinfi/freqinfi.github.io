@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm a passionate developer interested in data science including AI and computer vision.
+ I'm senior student at Seoul National University and I major in Mechanical Engineering and Computer Science Engineering as double major. I'm currently interested in data science including Artificial Intelligence.
 
-<span style = "font-size:14px; color: gray;"> 저는 서울대학교 4학년에 재학중인 주기영입니다. 저는 기계공학과 컴퓨터공학을 복수전공하고 있습니다. 저는 AI를 포함한 데이터 사이언스와 컴퓨터 비전 기술에 관심이 있습니다. </span>
+<span style = "font-size:14px; color: gray;"> 저는 서울대학교 4학년에 재학중인 주기영입니다. 저는 기계공학과 컴퓨터공학을 복수전공하고 있습니다. 저는 인공지능을 포함한 데이터 사이언스 기술에 관심이 있습니다. </span>
  
 
 Education
