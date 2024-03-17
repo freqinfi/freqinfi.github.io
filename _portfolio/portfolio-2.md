@@ -17,10 +17,10 @@ collection: portfolio
 이러한 특성을 활용하여 회사나 공공기관 등의 고정된 이용자를 가진 집단에서 간식이나 음료 등을 핸드폰을 통해서 자신의 선호를 결정하고 이를 반영하여 제공할 수 있는 서비스에 대해서 고안해보았습니다.
 
 간식 / 음료를 모두 포함한 자판기를 설계하는 것에 한계가 있기 때문에 4가지 음료를 조합하여 자신이 원하는 비율로 설정하고, 얼굴인식을 통해 원하는 음료를 받을 수 있는 음료자판기를 만들어 보았습니다.
+</span><br><br>
+
 
 <img src='/images/mecha.jpg' width='500'/>
-
-</span><br><br>
 
     * [Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
     * <strong> Contents</strong>
