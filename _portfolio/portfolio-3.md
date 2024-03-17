@@ -6,8 +6,9 @@ collection: portfolio
 ---
 
 <br>
-<span style = "font-size:18px;"> 학부 머신러닝 과목을 수강하면서 진행한 프로젝트에 대한 내용</span>
+<span style = "font-size:18px;"> 컴퓨터 프로그래밍 과목을 수강하면서 진행한 프로젝트에 대한 내용</span>
 <br><br>
+<img src='/images/cp_ex2.png' width="600" height="360" style="display: block; margin: 0 auto;" alt="Mecha Prize">
 
 * <strong style = "color: blue; font-size:22px;">Introduction</strong><br>
 <span style = "font-size:16px; color: gray;"><br> 상자에 충격을 가했을 때 물체가 있는지와 없는지, 또한 어디에 있는지에 따라서 다른 소리가 납니다. 이러한 사실을 바탕으로 음파를 이용하여 빈 공간이나 두꺼운 벽 내에 물체가 존재하는지 인공지능을 이용하여 분류하는 프로젝트를 진행하였습니다.</span><br><br>
