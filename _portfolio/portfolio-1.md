@@ -5,8 +5,11 @@ excerpt: "Stereo Depth Estimation Research<br/><img src='/images/triangulizaiton
 collection: portfolio
 ---
 
-<span style = "font-size:14px; color: gray;"> 제가 RPM 연구실에서 Off-road 환경에서의 자율주행에 대해서 연구한 내용입니다.
+<span style = "font-size:14px; color: gray;"> 제가 RPM 연구실에서 Off-road 환경에서의 자율주행에 대해서 연구한 내용입니다.</span>
 <br><br>
-연구를 위하여 카메라 setting을 하
-</span>
- 
+
+* Setting Stereo Camera System
+[Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
+
+* Setting Stereo Camera System
+
