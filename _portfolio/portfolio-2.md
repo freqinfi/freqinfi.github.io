@@ -1,6 +1,6 @@
 ---
 title: "Web Search"
-excerpt: "<br/>Building a Search-Enabled Website using Search API<img src='/images/cp_ex1.PNG' width='500' height='300'>
+excerpt: "Building a Search-Enabled Website using Search API<br><img src='/images/cp_ex1.PNG' width='500' height='300'>
 "
 collection: portfolio
 ---
