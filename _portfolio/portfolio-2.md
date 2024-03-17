@@ -35,6 +35,9 @@ collection: portfolio
 
 
 * <strong style = "color: blue; font-size:22px;">Presentation & Demonstration</strong><br>
+    <span style = "font-size:16px; color: gray;"><br> 
+    프로젝트의 마무리로 실제 시연을 수행하였습니다.
+    </span>
     * [Material](/files/Mecha Final/final.pdf)
     * <strong> Contents</strong>
         * Explanation of Module
