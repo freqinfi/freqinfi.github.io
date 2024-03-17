@@ -10,11 +10,11 @@ collection: portfolio
 
 * <strong>Setting Stereo Camera System</strong><br>
 <span style = "font-size:15px; color: gray;"><br> Stereo Camera System의 하드웨어를 실제로 구성하는 과정을 수행하고 수행 과정에서 어려웠던 점과 간단한 Stereo Vision에 대한 이론적 배경에 대해 간단하게 중간 발표를 하였습니다.</span><br><br>
-[Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
+    * [Material](/files/StereoDepthEstimation/2023-S UROP.pdf)
 
-    <strong> Contents</strong>
-    * Manufacturing Camera System
-    * Camera System Assembly
+    * <strong> Contents</strong>
+        * Manufacturing Camera System
+        * Camera System Assembly
 
 
 
