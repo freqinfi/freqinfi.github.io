@@ -21,6 +21,7 @@ collection: portfolio
     * [Material](/files/MFM/ML4ME_Final.pdf)
     * [Youtube](https://www.youtube.com/watch?v=YgvcL3sQxws)
     * <strong> Contents</strong>
-        * Manufacturing Camera System
-        * Camera System Assembly
-        * Basic of 3D computer vision
+        * Generation of our Dataset
+        * Feature Extraction methods and data visualization
+        * Classification methods and comparison
+        * Discussion
