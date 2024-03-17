@@ -24,11 +24,11 @@ collection: portfolio
 
 * <strong style = "color: blue; font-size:22px;">Mechanism</strong><br>
     <span style = "font-size:16px; color: gray;"><br> 
-    1. 사용자가 Web App을 통해서 자신의 사진을 등록하며 가입하고, 음료 recipe(음료의 비율)을 추가할 수 있다. 이러한 정보를 API를 통해 Python에서 읽을 수 있도록 제공한다.
+    1.사용자가 Web App을 통해서 자신의 사진을 등록하며 가입하고, 음료 recipe(음료의 비율)을 추가할 수 있다. 이러한 정보를 API를 통해 Python에서 읽을 수 있도록 제공한다.
     </span><br><br><span style = "font-size:16px; color: gray;">
-    2. 라즈베리파이 4 환경에서 Python을 구동하여 카메라를 이용하여 얼굴을 촬영하고, 등록된 사용자들의 사진과 비교하여 얼굴인식을 수행한다. 인식된 사용자에 해당하는 음료 비율로 각각의 음료를 몇 초동안 따를 것인지 계산하고, 이를 Arduino로 전송한다.
+    2.라즈베리파이 4 환경에서 Python을 구동하여 카메라를 이용하여 얼굴을 촬영하고, 등록된 사용자들의 사진과 비교하여 얼굴인식을 수행한다. 인식된 사용자에 해당하는 음료 비율로 각각의 음료를 몇 초동안 따를 것인지 계산하고, 이를 Arduino로 전송한다.
     </span><br><br><span style = "font-size:16px; color: gray;">
-    3. Arduino로 초음파센서, 서보모터, LED를 제어하여 사용자의 선호에 맞는 비율로 음료를 제공한다. 이때 초음파센서가 컵을 인식하였을 때만 음료를 제공하도록 설계하여 오작동을 배제한다.
+    3.Arduino로 초음파센서, 서보모터, LED를 제어하여 사용자의 선호에 맞는 비율로 음료를 제공한다. 이때 초음파센서가 컵을 인식하였을 때만 음료를 제공하도록 설계하여 오작동을 배제한다.
     </span><br><br>
 
 <img src='/images/mecha.png'/>
