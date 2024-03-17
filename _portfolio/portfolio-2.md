@@ -1,6 +1,6 @@
 ---
 title: "Mechatronics Project"
-excerpt: "<br/>coffee machine using Face recognition<img src='/images/mecha_logo.png' width='500' height='300'>
+excerpt: "Face recognition coffee machine<br/><img src='/images/mecha_logo.png' width='500' height='300'>
 "
 collection: portfolio
 ---
