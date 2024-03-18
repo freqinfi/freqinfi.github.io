@@ -19,8 +19,10 @@ Education
   * Total : 4.05 / 4.3 (117 credits)
   * Mechanical Engineering : 4.11 / 4.3 (51 credits)
   * Computer Science Engineering : 4.02 / 4.3 (28 credits)
-  * [Grade](/images/grade.jpg)
 
+<!--
+  * [Grade](/images/grade.jpg)
+-->
 
 Work experience
 ======
